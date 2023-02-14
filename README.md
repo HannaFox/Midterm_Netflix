@@ -1,4 +1,4 @@
-# Midterm_Project_Netflix
+# Midterm_Netflix
 Ironhack Midterm Project: Evaluating Netflix's Top 10 Picks of the Day in the US through the corona years (2020-2022)
 
 ### Goal of the project 
