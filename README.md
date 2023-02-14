@@ -16,9 +16,9 @@ Which movies and TV Series where the most popular in the corona years?
 ### Datasets
 Netflix Daily Top 10:  
 https://www.kaggle.com/datasets/prasertk/netflix-daily-top-10-in-us   
---> 456.09 kB with 10 features in 7100 rows
+456.09 kB with 10 features in 7100 rows
 
 IMDb:   
 https://www.imdb.com/interfaces/   
---> through joining this dataset with original netflix dataset it is possible to get additional information regarding the runtime, genre and 
+Through joining this dataset with original netflix dataset it is possible to get additional information regarding the runtime, genre and 
 average IMDb rating of the title
