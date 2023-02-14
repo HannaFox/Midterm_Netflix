@@ -7,8 +7,8 @@ Which movies and TV Series where the most popular in the corona years?
 
 ### Timeline  
 06.02.2023: Kick-off, loading the data, data grouping by month   
-07.02.2023: Checking possible data joins with IMDb databases to get further information on the Netflix database  
-08.02.2023: Checking possible options to create an animated bar chart race with Top 10 Trending
+07.02.2023: Checking possible data joins with IMDb databases to get further information on the Netflix database    
+08.02.2023: Checking possible options to create an animated bar chart race with Top 10 Trending  
 09.02.2023: Preparing the presentation using storytelling methods   
 10.02.2023: 7min final presentation (+5min Q&A)   
 
